@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ta8sWAboaQUSk3yW6XAJ4arI3B6iY0azzcXJmJsYr2Hkf/yEIPv888tafQUWLhN/TcWoHYRiuDjbRL3JgUgenw==",
+  "dgSpecHash": "iOrii+CPJSSaSgQKyF2oQkZDZ65IHSTFf6FIXnKlYmEDHxXKHSJfSlnPsDYt6IYabynYEM/xgaZETxNXGY3VnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KIIT\\source\\repos\\ManagmentSystem\\ManagmentSystem.EF\\ManagmentSystem.EF.csproj",
+  "projectFilePath": "C:\\Users\\KIIT\\Source\\Repos\\nawras-almstarehe\\ManagSys\\ManagmentSystem.EF\\ManagmentSystem.EF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KIIT\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.17\\microsoft.aspnetcore.authentication.jwtbearer.5.0.17.nupkg.sha512",

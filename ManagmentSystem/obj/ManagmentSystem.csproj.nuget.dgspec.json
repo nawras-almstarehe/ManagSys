@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KIIT\\source\\repos\\ManagmentSystem\\ManagmentSystem\\ManagmentSystem.csproj": {}
+    "C:\\Users\\KIIT\\Source\\Repos\\nawras-almstarehe\\ManagSys\\ManagmentSystem\\ManagmentSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KIIT\\source\\repos\\ManagmentSystem\\ManagmentSystem.Core\\ManagmentSystem.Core.csproj": {
+    "C:\\Users\\KIIT\\Source\\Repos\\nawras-almstarehe\\ManagSys\\ManagmentSystem.Core\\ManagmentSystem.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KIIT\\source\\repos\\ManagmentSystem\\ManagmentSystem.Core\\ManagmentSystem.Core.csproj",
+        "projectUniqueName": "C:\\Users\\KIIT\\Source\\Repos\\nawras-almstarehe\\ManagSys\\ManagmentSystem.Core\\ManagmentSystem.Core.csproj",
         "projectName": "ManagmentSystem.Core",
-        "projectPath": "C:\\Users\\KIIT\\source\\repos\\ManagmentSystem\\ManagmentSystem.Core\\ManagmentSystem.Core.csproj",
+        "projectPath": "C:\\Users\\KIIT\\Source\\Repos\\nawras-almstarehe\\ManagSys\\ManagmentSystem.Core\\ManagmentSystem.Core.csproj",
         "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KIIT\\source\\repos\\ManagmentSystem\\ManagmentSystem.Core\\obj\\",
+        "outputPath": "C:\\Users\\KIIT\\Source\\Repos\\nawras-almstarehe\\ManagSys\\ManagmentSystem.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KIIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\KIIT\\source\\repos\\ManagmentSystem\\ManagmentSystem.EF\\ManagmentSystem.EF.csproj": {
+    "C:\\Users\\KIIT\\Source\\Repos\\nawras-almstarehe\\ManagSys\\ManagmentSystem.EF\\ManagmentSystem.EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KIIT\\source\\repos\\ManagmentSystem\\ManagmentSystem.EF\\ManagmentSystem.EF.csproj",
+        "projectUniqueName": "C:\\Users\\KIIT\\Source\\Repos\\nawras-almstarehe\\ManagSys\\ManagmentSystem.EF\\ManagmentSystem.EF.csproj",
         "projectName": "ManagmentSystem.EF",
-        "projectPath": "C:\\Users\\KIIT\\source\\repos\\ManagmentSystem\\ManagmentSystem.EF\\ManagmentSystem.EF.csproj",
+        "projectPath": "C:\\Users\\KIIT\\Source\\Repos\\nawras-almstarehe\\ManagSys\\ManagmentSystem.EF\\ManagmentSystem.EF.csproj",
         "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KIIT\\source\\repos\\ManagmentSystem\\ManagmentSystem.EF\\obj\\",
+        "outputPath": "C:\\Users\\KIIT\\Source\\Repos\\nawras-almstarehe\\ManagSys\\ManagmentSystem.EF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KIIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -110,8 +110,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\KIIT\\source\\repos\\ManagmentSystem\\ManagmentSystem.Core\\ManagmentSystem.Core.csproj": {
-                "projectPath": "C:\\Users\\KIIT\\source\\repos\\ManagmentSystem\\ManagmentSystem.Core\\ManagmentSystem.Core.csproj"
+              "C:\\Users\\KIIT\\Source\\Repos\\nawras-almstarehe\\ManagSys\\ManagmentSystem.Core\\ManagmentSystem.Core.csproj": {
+                "projectPath": "C:\\Users\\KIIT\\Source\\Repos\\nawras-almstarehe\\ManagSys\\ManagmentSystem.Core\\ManagmentSystem.Core.csproj"
               }
             }
           }
@@ -172,14 +172,14 @@
         }
       }
     },
-    "C:\\Users\\KIIT\\source\\repos\\ManagmentSystem\\ManagmentSystem\\ManagmentSystem.csproj": {
+    "C:\\Users\\KIIT\\Source\\Repos\\nawras-almstarehe\\ManagSys\\ManagmentSystem\\ManagmentSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KIIT\\source\\repos\\ManagmentSystem\\ManagmentSystem\\ManagmentSystem.csproj",
+        "projectUniqueName": "C:\\Users\\KIIT\\Source\\Repos\\nawras-almstarehe\\ManagSys\\ManagmentSystem\\ManagmentSystem.csproj",
         "projectName": "ManagmentSystem",
-        "projectPath": "C:\\Users\\KIIT\\source\\repos\\ManagmentSystem\\ManagmentSystem\\ManagmentSystem.csproj",
+        "projectPath": "C:\\Users\\KIIT\\Source\\Repos\\nawras-almstarehe\\ManagSys\\ManagmentSystem\\ManagmentSystem.csproj",
         "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KIIT\\source\\repos\\ManagmentSystem\\ManagmentSystem\\obj\\",
+        "outputPath": "C:\\Users\\KIIT\\Source\\Repos\\nawras-almstarehe\\ManagSys\\ManagmentSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KIIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -196,11 +196,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\KIIT\\source\\repos\\ManagmentSystem\\ManagmentSystem.Core\\ManagmentSystem.Core.csproj": {
-                "projectPath": "C:\\Users\\KIIT\\source\\repos\\ManagmentSystem\\ManagmentSystem.Core\\ManagmentSystem.Core.csproj"
+              "C:\\Users\\KIIT\\Source\\Repos\\nawras-almstarehe\\ManagSys\\ManagmentSystem.Core\\ManagmentSystem.Core.csproj": {
+                "projectPath": "C:\\Users\\KIIT\\Source\\Repos\\nawras-almstarehe\\ManagSys\\ManagmentSystem.Core\\ManagmentSystem.Core.csproj"
               },
-              "C:\\Users\\KIIT\\source\\repos\\ManagmentSystem\\ManagmentSystem.EF\\ManagmentSystem.EF.csproj": {
-                "projectPath": "C:\\Users\\KIIT\\source\\repos\\ManagmentSystem\\ManagmentSystem.EF\\ManagmentSystem.EF.csproj"
+              "C:\\Users\\KIIT\\Source\\Repos\\nawras-almstarehe\\ManagSys\\ManagmentSystem.EF\\ManagmentSystem.EF.csproj": {
+                "projectPath": "C:\\Users\\KIIT\\Source\\Repos\\nawras-almstarehe\\ManagSys\\ManagmentSystem.EF\\ManagmentSystem.EF.csproj"
               }
             }
           }
