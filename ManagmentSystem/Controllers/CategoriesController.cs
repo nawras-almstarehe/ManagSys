@@ -52,6 +52,7 @@ namespace ManagmentSystem.Controllers
             {
                 throw;
             }
+            //nawras
         }
 
         [HttpPost("AddCategory")]
